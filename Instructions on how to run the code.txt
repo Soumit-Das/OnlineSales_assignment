@@ -1,0 +1,28 @@
+Instructions on how to run the code.
+
+Question 1:
+
+
+
+Step 1: Import the application to any IDE’s
+
+Step 2: Go to the OnlineSales_Assignment_Problem_One project then go to src>main>java then open the com.onlinesales package then open the ProbabilitySimulator class and there you have all the code with the main method
+
+Step 3: Run the application from that class
+
+Step 4: For the Unit testing go to the src>test>java then open the com.onlinesales package then go to ProbabilitySimulatorTest class and run the Junit tests
+
+
+
+
+
+
+Question 3:
+
+
+Step 1: Import the python application to any IDE’s
+
+Step 2: Go to the main.py file and run the python code 
+
+Step 3: And for the unit testing go to the test.py and run the application with command pytest /test
+
