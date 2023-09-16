@@ -1,0 +1,13 @@
+package com.onlinesales;
+
+public class ProbableResult {
+
+	String name;
+    int probability;
+
+    public ProbableResult(String name, int probability) {
+        this.name = name;
+        this.probability = probability;
+    }
+	
+}

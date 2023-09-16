@@ -1,0 +1,66 @@
+package com.onlinesales;
+
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
+import java.util.Scanner;
+
+class MainSimulator {
+
+	List<ProbableResult> results = new ArrayList<ProbableResult>();
+    Random random = new Random();
+    int totalProbability = 0;
+
+    public void addOutcome(ProbableResult probableResult) {
+    	results.add(probableResult);
+        totalProbability += probableResult.probability;
+    }
+
+    public String generateOutcome() {
+        int randomNumber = random.nextInt(totalProbability);
+        int Probability = 0;
+
+        for (ProbableResult res : results) {
+        	Probability += res.probability;
+            if (randomNumber < Probability) {
+                return res.name;
+            }
+        }
+
+        // This should not happen if the probabilities are correctly specified.
+        return "Invalid outcome";
+    }
+}
+
+public class ProbabilitySimulation {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        MainSimulator event = new MainSimulator();
+
+        System.out.print("Enter the number of outcomes: ");
+        int numOutcomes = scanner.nextInt();
+        scanner.nextLine(); // Consume the newline character
+
+        for (int i = 0; i < numOutcomes; i++) {
+            System.out.print("Enter the name for outcome " + (i + 1) + ": ");
+            String name = scanner.nextLine();
+
+            System.out.print("Enter the probability for outcome " + (i + 1) + ": ");
+            int probability = scanner.nextInt();
+            scanner.nextLine(); // Consume the newline character
+
+            event.addOutcome(new ProbableResult(name, probability));
+        }
+
+        System.out.println("Simulating the event:");
+        for (int i = 0; i < 10; i++) {
+            String result = event.generateOutcome();
+            System.out.println("Attempt " + (i + 1) + ": " + result);
+        }
+
+        scanner.close();
+    }
+
+}

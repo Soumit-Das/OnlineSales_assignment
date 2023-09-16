@@ -1,0 +1,121 @@
+package com.onlinesales;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.fail;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+public class ProbabilitySimulatorTest {
+
+	 private ProbabilitySimulator simulator;
+
+	    @BeforeEach
+	    public void setUp() {
+	        simulator = new ProbabilitySimulator();
+
+	    }
+	    
+//	    @AfterEach
+//	    public void destroy() {
+//	    	simulator = null;
+//	    	
+//	    }
+
+//	    @Test
+//	    public void testAddEvent() {
+//	        assertTrue(simulator.addEvent("Event1", 50.0));
+//	        assertFalse(simulator.addEvent("Event1", 60.0));
+//	    }
+//
+//	    @Test
+//	    public void testInvalidProbability() {
+//
+//	    	try {
+//	    		simulator.addEvent("Event1", 120.0);
+//	    		fail("Expected IllegalArgumentException, but it was not thrown.");
+//			} catch (IllegalArgumentException e) {
+//				assertNotNull(e.getMessage());
+//			}
+//	    	
+//	        
+//	    }
+//
+//	    @Test
+//	    public void testNegativeProbability() {
+//
+//	    	try {
+//	    		simulator.addEvent("Event1", -10.0);
+//	    		fail("Expected IllegalArgumentException, but it was not thrown.");
+//				
+//			} catch (IllegalArgumentException e) {
+//				assertNotNull(e.getMessage());
+//			}
+//	    	
+//	    }
+
+//	    @Test
+//	    public void testTotalProbabilityExceeds100() {
+//	        try {
+//	            simulator.addEvent("Event1", 60.0);
+//	            simulator.addEvent("Event2", 50.0); 
+//	            fail("Expected IllegalArgumentException, but it was not thrown.");
+//	        } catch (IllegalArgumentException e) {
+//	            assertNotNull(e.getMessage()); 
+//	        }
+//	    }
+
+	    @Test
+	    public void testSimulateEvents_For_Coin() {
+
+	        simulator.addEvent("Head", 35.0);
+	        simulator.addEvent("Tail", 65.0);
+	        int numSimulations = 1000;
+	        int tolerance = 50; 
+	        
+
+	        for (int i = 0; i < 10; i++) {
+	            simulator.simulateEvents(numSimulations);
+	            int countEvent1 = simulator.simulateEvents(numSimulations).get("Event1");
+	            int countEvent2 = simulator.simulateEvents(numSimulations).get("Event2");
+	            assertTrue(Math.abs(countEvent1 - countEvent2) < tolerance);
+	        }
+
+	    }
+	    
+	    
+	    @Test
+	    public void testSimulateEvents_For_Dice() {
+	    	
+	    	simulator.addEvent("1", 10.0);
+	    	simulator.addEvent("2", 30.0);
+	    	simulator.addEvent("3", 15.0);
+	    	simulator.addEvent("4", 15.0);
+	    	simulator.addEvent("5", 30.0);
+	    	simulator.addEvent("6", 0.0);
+	    	
+	    	int numSimulations = 1000;
+	    	int tolerance = 50; 
+	    	
+	    	
+	    	for (int i = 0; i < 10; i++) {
+	    		simulator.simulateEvents(numSimulations);
+	    		int countEvent1 = simulator.simulateEvents(numSimulations).get("1");
+	    		int countEvent2 = simulator.simulateEvents(numSimulations).get("2");
+	    		int countEvent3 = simulator.simulateEvents(numSimulations).get("3");
+	    		int countEvent4 = simulator.simulateEvents(numSimulations).get("4");
+	    		int countEvent5 = simulator.simulateEvents(numSimulations).get("5");
+	    		int countEvent6 = simulator.simulateEvents(numSimulations).get("6");
+	    		assertTrue(Math.abs(countEvent1 - countEvent2 - countEvent3 - countEvent4 - countEvent5 - countEvent6) < tolerance);
+	    	}
+	    	
+	    }
+	
+}

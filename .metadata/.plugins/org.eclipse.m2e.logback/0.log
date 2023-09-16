@@ -1,0 +1,290 @@
+2023-09-15 10:55:33,843 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-15 10:56:27,295 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-15 10:59:50,790 [Worker-4: Creating project "OnlineSales_Assignment_Problem_One"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_One:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One\pom.xml.
+2023-09-15 10:59:51,732 [Worker-4: Creating project "OnlineSales_Assignment_Problem_One"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_One/src/main/java
+2023-09-15 10:59:51,736 [Worker-4: Creating project "OnlineSales_Assignment_Problem_One"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_One/src/main/resources
+2023-09-15 10:59:51,736 [Worker-4: Creating project "OnlineSales_Assignment_Problem_One"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_One/src/test/java
+2023-09-15 10:59:51,738 [Worker-4: Creating project "OnlineSales_Assignment_Problem_One"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_One/src/test/resources
+2023-09-15 10:59:53,213 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 10:59:53,223 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 10:59:53,227 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 10:59:53,229 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:01:36,913 [Worker-6: Creating project "OnlineSales_Assignment_Problem_Two"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_Two:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_Two\pom.xml.
+2023-09-15 11:01:36,990 [Worker-6: Creating project "OnlineSales_Assignment_Problem_Two"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_Two/src/main/java
+2023-09-15 11:01:36,991 [Worker-6: Creating project "OnlineSales_Assignment_Problem_Two"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_Two/src/main/resources
+2023-09-15 11:01:36,991 [Worker-6: Creating project "OnlineSales_Assignment_Problem_Two"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_Two/src/test/java
+2023-09-15 11:01:36,991 [Worker-6: Creating project "OnlineSales_Assignment_Problem_Two"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_Two/src/test/resources
+2023-09-15 11:01:37,288 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:01:37,294 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:01:37,297 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:01:37,298 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:02:16,484 [Worker-11: Creating project "OnlineSales_Assignment_Problem_Three"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_Three:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_Three\pom.xml.
+2023-09-15 11:02:16,602 [Worker-11: Creating project "OnlineSales_Assignment_Problem_Three"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_Three/src/main/java
+2023-09-15 11:02:16,602 [Worker-11: Creating project "OnlineSales_Assignment_Problem_Three"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_Three/src/main/resources
+2023-09-15 11:02:16,603 [Worker-11: Creating project "OnlineSales_Assignment_Problem_Three"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineSales_Assignment_Problem_Three/src/test/java
+2023-09-15 11:02:16,603 [Worker-11: Creating project "OnlineSales_Assignment_Problem_Three"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineSales_Assignment_Problem_Three/src/test/resources
+2023-09-15 11:02:16,958 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:02:16,961 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:02:16,965 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:02:16,966 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:33:55,277 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_One:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One\pom.xml.
+2023-09-15 11:33:55,495 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:33:55,501 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:33:55,504 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:33:55,505 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:33:56,661 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:33:56,673 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:33:56,676 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:33:56,677 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:35:22,477 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_One:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One\pom.xml.
+2023-09-15 11:35:22,637 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:35:22,639 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:35:22,643 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:35:22,646 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:40:15,433 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:40:15,439 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:40:15,444 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:40:15,446 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:03,754 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:03,757 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:03,761 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:03,764 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,098 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,102 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,109 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,111 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,122 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,124 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,133 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,136 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,147 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,149 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 11:41:05,154 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 11:41:05,156 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 14:15:00,773 [Worker-31: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 14:15:00,795 [Worker-31: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 14:15:00,801 [Worker-31: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 14:15:00,804 [Worker-31: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 14:17:55,299 [Worker-29: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 14:17:55,308 [Worker-29: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 14:17:55,314 [Worker-29: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 14:17:55,318 [Worker-29: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 15:53:15,824 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 15:53:15,850 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 15:53:15,873 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 15:53:15,876 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 16:28:28,725 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 16:28:28,738 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 16:28:28,744 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 16:28:28,745 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 16:36:14,490 [Worker-43: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 16:36:14,506 [Worker-43: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 16:36:14,513 [Worker-43: Launching ProbabilitySimulation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 16:36:14,514 [Worker-43: Launching ProbabilitySimulation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 19:42:41,195 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 19:42:41,219 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 19:42:41,225 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 19:42:41,227 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:17:58,019 [Worker-69: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:17:58,065 [Worker-69: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:17:58,070 [Worker-69: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:17:58,072 [Worker-69: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:21:03,459 [Worker-69: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:21:03,484 [Worker-69: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:21:03,498 [Worker-69: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:21:03,500 [Worker-69: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:28:47,859 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:28:47,875 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:28:47,892 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:28:47,896 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:29:14,344 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:29:14,347 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:29:14,353 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:29:14,357 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:29:56,994 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:29:56,997 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:29:57,001 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:29:57,004 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:50:35,244 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:50:35,282 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:50:35,286 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:50:35,287 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:50:39,702 [Worker-83: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:50:39,703 [Worker-83: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:50:39,721 [Worker-83: Launching MainSimulator] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:50:39,722 [Worker-83: Launching MainSimulator] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:51:31,563 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:51:31,573 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:51:31,576 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:51:31,579 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:51:57,400 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:51:57,410 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 20:51:57,412 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 20:51:57,413 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:17:53,568 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:17:53,614 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:17:53,619 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:17:53,624 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:20:25,305 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:20:25,353 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:20:25,356 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:20:25,363 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:22:06,045 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-09-15 21:22:35,300 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [345])
+2023-09-15 21:22:35,424 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-09-15 21:22:35,426 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-09-15 21:22:35,429 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-09-15 21:22:35,431 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-09-15 21:22:35,432 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-09-15 21:22:35,433 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-09-15 21:22:35,433 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-09-15 21:22:35,434 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-09-15 21:22:35,435 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-09-15 21:22:35,439 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-09-15 21:22:35,440 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-09-15 21:22:35,442 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-09-15 21:22:35,443 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-09-15 21:22:35,445 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-09-15 21:22:35,451 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-09-15 21:22:35,453 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-09-15 21:22:35,456 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-09-15 21:22:35,457 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-09-15 21:22:35,460 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-09-15 21:22:35,467 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-09-15 21:22:35,468 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-09-15 21:22:35,470 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-09-15 21:22:35,472 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-09-15 21:22:35,476 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-09-15 21:22:35,479 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-09-15 21:22:35,480 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-09-15 21:22:35,481 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-09-15 21:22:35,483 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-09-15 21:22:35,485 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-09-15 21:22:35,486 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-09-15 21:22:35,487 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-09-15 21:22:35,487 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-09-15 21:22:35,488 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-09-15 21:22:35,491 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-09-15 21:22:35,492 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-09-15 21:22:35,493 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-09-15 21:22:35,494 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-09-15 21:22:35,497 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-09-15 21:22:35,499 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-09-15 21:22:35,509 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [22])
+2023-09-15 21:22:35,526 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-09-15 21:22:35,526 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [584])
+2023-09-15 21:22:35,925 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\slf4j.api_1.7.36.jar
+2023-09-15 21:22:35,927 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [49])
+2023-09-15 21:22:36,298 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-09-15 21:22:36,298 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [47])
+2023-09-15 21:22:36,688 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\STS\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-09-15 21:22:36,735 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:22:36,744 [Worker-92: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:23:32,975 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:23:32,988 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:23:32,991 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:23:32,993 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:23:33,186 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:23:33,192 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:23:33,196 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:23:33,198 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:24:03,647 [Worker-96: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:24:03,650 [Worker-96: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:26:09,934 [Worker-96: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:26:09,944 [Worker-96: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:26:10,710 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:26:10,735 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:26:10,743 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:26:10,748 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:38,451 [Worker-102: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlinesales:OnlineSales_Assignment_Problem_One:0.0.1-SNAPSHOT @ C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One\pom.xml.
+2023-09-15 21:40:39,931 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:39,956 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:39,970 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:39,973 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:41,708 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:41,710 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:41,714 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:41,716 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:58,121 [Worker-105: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:40:58,123 [Worker-105: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:40:58,718 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:58,722 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:40:58,727 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:40:58,730 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:41:54,517 [Worker-111: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:41:54,600 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:41:54,614 [Worker-111: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:41:54,624 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:41:54,801 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:41:54,803 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:41:54,805 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:41:54,806 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:42:00,882 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:42:00,884 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:42:00,885 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:42:00,887 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:46:18,245 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:46:18,278 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:46:18,290 [Worker-102: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:46:18,293 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:46:20,454 [Worker-102: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:46:20,455 [Worker-102: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:47:55,850 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:47:55,855 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:47:56,291 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:47:56,315 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:47:56,322 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:47:56,324 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:47:57,465 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:47:57,469 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:47:57,472 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:47:57,484 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:50:47,593 [Worker-118: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:50:47,606 [Worker-118: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:50:49,328 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:50:49,336 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:50:49,341 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:50:49,343 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:52:07,062 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:52:07,079 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:52:08,244 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:52:08,264 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:52:08,281 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:52:08,285 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:53:47,529 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:53:47,538 [Worker-115: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:53:48,428 [Worker-123: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:53:48,452 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:53:48,457 [Worker-123: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:53:48,467 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:53:48,637 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:53:48,638 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:53:48,641 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:53:48,643 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:59:03,220 [Worker-128: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 21:59:03,262 [Worker-128: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 21:59:04,679 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:59:04,714 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 21:59:04,725 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 21:59:04,729 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:05,113 [Worker-131: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 22:00:05,120 [Worker-131: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 22:00:05,797 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:05,816 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:05,818 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:05,822 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:06,847 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:06,851 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:06,853 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:06,854 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:45,063 [Worker-131: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Soumit\OneDrive\Desktop\OnlineSales assignment\OnlineSales_Assignment_Problem_One":
+2023-09-15 22:00:45,065 [Worker-131: Launching OnlineSales_Assignment_Problem_One] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-09-15 22:00:45,647 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:45,657 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:45,664 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:45,666 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:45,796 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:45,798 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-15 22:00:45,804 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-15 22:00:45,811 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-09-16 08:47:49,877 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,29 @@
+package com.onlinesales;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+public class MainSimulatorTest {
+
+	@DisplayName("Test integerAdd with [num1, num2, expected]")
+	@Test
+	public void testDivide_whenValidValueProvided_shouldReturnExpectedResult(){
+		
+		Map<String, Double> outcomes = new LinkedHashMap<String, Double>();
+        outcomes.put("1", 10.0);
+        outcomes.put("2", 30.0);
+        outcomes.put("3" ,15.0);
+        outcomes.put("4", 15.0);
+        outcomes.put("5", 30.0);
+        outcomes.put("6", 0.0);
+		
+        
+        
+        
+        
+	}
+	
+}
